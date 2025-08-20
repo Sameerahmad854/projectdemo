@@ -1,2 +1,3 @@
-# projectdemo
-this is my first Git repository  
+# project-demo
+This is my first Git repository 
+Author - Sameer Ahmad
